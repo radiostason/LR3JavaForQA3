@@ -1,2 +1,4 @@
 some text
 some another text
+
+added new text from Idea
